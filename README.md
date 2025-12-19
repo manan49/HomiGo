@@ -19,4 +19,25 @@
 2) Responsive design (mobile-friendly)
 3) Easy navigation & smooth user experience
 
-  
+---
+
+#🛠️ Tech Stack
+
+##Frontend
+
+React.js
+Tailwind CSS
+JavaScript
+Axios
+
+##Backend
+
+Node.js
+Express.js
+MongoDB
+JWT Authentication
+
+##Others
+
+Git & GitHub
+REST APIs
