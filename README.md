@@ -7,15 +7,11 @@
 
  ## 👤 User Features
  
-  1)Login & Signup (JWT Authentication)
-     
-  2)Browse all listings
-  
-  3)View property details
-  
-  4)Book a property
-  
-  5)Manage bookings (optional)
+  1) Login & Signup (JWT Authentication)
+  2) Browse all listings
+  3) View property details
+  4) Book a property
+  5) Manage bookings (optional)
 
 ## 🎨 UI/UX
 
